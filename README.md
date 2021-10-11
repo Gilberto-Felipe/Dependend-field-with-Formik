@@ -1,3 +1,6 @@
+This form shows a way to set dependend fields with Formik. Formik is a React library for managing React Forms in a easy way. See more at [Formik Docs](https://formik.org/docs/overview)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
